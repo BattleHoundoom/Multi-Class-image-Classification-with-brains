@@ -15,3 +15,8 @@ We managed to build a full-fledged deep learning algorithm which responds to our
 
 ## What's next for BrainSplitter
 This algorithm can be expanded to many different types of datasets and use cases such as brain tumours, kidney stones identifying any cardiac functions working incorrectly etc.
+
+### Authors
+Abhay Ganti -- Me
+Aditya Bairy -- BattleHoundoom
+Karthik Sankar -- emergenitro
