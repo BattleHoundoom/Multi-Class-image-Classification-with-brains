@@ -17,6 +17,6 @@ We managed to build a full-fledged deep learning algorithm which responds to our
 This algorithm can be expanded to many different types of datasets and use cases such as brain tumours, kidney stones identifying any cardiac functions working incorrectly etc.
 
 ### Authors
-Abhay Ganti -- Me
-Aditya Bairy -- BattleHoundoom
-Karthik Sankar -- emergenitro
+Abhay Ganti -- silvermango9927 \n
+Aditya Bairy -- BattleHoundoom \n
+Karthik Sankar -- emergenitro \n
