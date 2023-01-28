@@ -18,5 +18,5 @@ This algorithm can be expanded to many different types of datasets and use cases
 
 ### Authors
 **Abhay Ganti** -- [silvermango9927](https://github.com/silvermango9927) \
-**Aditya Bairy** -- BattleHoundoom \
-**Karthik Sankar** -- emergenitro 
+**Aditya Bairy** -- [BattleHoundoom](https://github.com/BattleHoundoom) \
+**Karthik Sankar** -- [emergenitro](https://github.com/emergenitro) 
